@@ -1,0 +1,35 @@
+baseurl: /
+title: Plant Crispr
+languageCode: en-us
+paginate: '10'
+theme: Mainroad
+disqusShortname: ''
+googleAnalytics: ''
+Author:
+  avatar: img/avatar.png
+  bio: Chen Tiantian is a graduate student in the class of 2020 at the College of Life Sciences, Henan Agricultural University
+  name: Chen Tiantian
+Params:
+  authorbox: yes
+  description: Chen Tiantian's Personal blog about plant crispr
+  logo:
+    subtitle: Just another site
+  opengraph: yes
+  pager: yes
+  post_meta:
+    - date
+    - categories
+  readmore: no
+  sidebar:
+    home: right
+    list: right
+    single: right
+    widgets:
+      - search
+      - recent
+      - categories
+      - taglist
+  twitter_cards: no
+  widgets:
+    recent_num: 5
+    tags_counter: no
