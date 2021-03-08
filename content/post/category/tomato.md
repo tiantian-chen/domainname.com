@@ -1,0 +1,12 @@
+---
+categories:
+- Plant category
+date: "2020-03-04"
+description: Example test article that contains basic HTML elements for text formatting
+  on the Web.
+tags:
+- articles
+- plant
+- crispr
+title: Tomato
+---
